@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "error_codes.h": "c",
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "calculations.h": "c",
+        "float.h": "c"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "queue_list.h": "c",
+        "random.h": "c",
+        "stdio.h": "c",
+        "io.h": "c",
+        "simulation.h": "c",
+        "errors.h": "c",
+        "actions.h": "c",
+        "common.h": "c",
+        "stdlib.h": "c"
+    }
+}
