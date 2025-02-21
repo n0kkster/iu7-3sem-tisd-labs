@@ -1,0 +1,8 @@
+*.exe
+*.png
+*.svg
+*.gv
+*.o
+*.flag
+test_data
+.vscode
