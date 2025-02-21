@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "actions.h": "c",
-        "files.h": "c",
-        "matrix.h": "c"
-    }
-}
